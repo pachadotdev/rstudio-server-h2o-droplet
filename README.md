@@ -1,2 +1,5 @@
-# rstudio-server-h2o-workshop-droplet
-Out-of-the-box fast loading droplet to follow Dr. LeDell's tutorial at https://github.com/ledell/LatinR-2019-h2o-tutorial
+# Application description
+
+RStudio Server is the premier integrated development environment for R that allows to move computation close to the data and scale compute and RAM centrally.
+
+See the details and available software at [Digital Ocean Marketplace](https://marketplace.digitalocean.com/apps/rstudio).
