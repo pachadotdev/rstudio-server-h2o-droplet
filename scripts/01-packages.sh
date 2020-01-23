@@ -41,9 +41,9 @@ q()
 EOF
 
 # install RStudio Server
-wget https://download2.rstudio.org/server/bionic/amd64/rstudio-server-1.2.5001-amd64.deb
-gdebi --n rstudio-server-1.2.5001-amd64.deb
-rm rstudio-server-1.2.5001-amd64.deb
+wget https://download2.rstudio.org/server/bionic/amd64/rstudio-server-1.2.5033-amd64.deb
+gdebi --n rstudio-server-1.2.5033-amd64.deb
+rm rstudio-server-1.2.5033-amd64.deb
 
 # open ports
 ufw allow http
